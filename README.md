@@ -2,6 +2,8 @@
 ![Imagem site](https://ik.imagekit.io/minayura/VaiComigo!/vaicomigo.png?updatedAt=1745843881561)
 O **VaiComigo!** é um aplicativo de caronas inteligentes que conecta motoristas e passageiros de forma prática, econômica e colaborativa. Nossa plataforma facilita a mobilidade, reduzindo custos e promovendo uma alternativa mais sustentável para o transporte diário.
 
+Acesse o [**Vai Comigo**](https://vaicomigo-caronas.netlify.app/)!
+
 ---
 
 ## ✨ Como Funciona?
@@ -24,6 +26,7 @@ No **VaiComigo!**, motoristas e passageiros colaboram para tornar o deslocamento
 - 🔐 **Context API** para gerenciamento de autenticação de usuários
 - 🗣️ **Axios** para requisições HTTP
 - 📜 **TypeScript** para uma melhor tipagem de dados e maior segurança no código
+
 
 ---
 👥 Equipe do Projeto
